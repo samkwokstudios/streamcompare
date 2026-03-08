@@ -1,5 +1,5 @@
 {
-  "rewrites": [
-    { "source": "/api/chat", "destination": "/api/chat" }
-  ]
+  "buildCommand": "",
+  "outputDirectory": "public",
+  "framework": null
 }
